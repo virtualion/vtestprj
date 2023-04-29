@@ -1,0 +1,2 @@
+#root=file:///C:/Users/anchor200/Desktop/Hakubutsu/test_rootpath/Resources/
+#prj=biken4

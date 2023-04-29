@@ -1,3 +1,0 @@
-title	uniqueCode	path	targetPos
-230126-5j-kofun-21|https://google.com	1	/images/230126-5j-kofun-21.jpg	51.79113,27,116.3
-caption1|	0	https://virtualion.github.io/shimane_pic/cover/1059.jpg	-20.46315,27,116.3
