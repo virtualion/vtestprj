@@ -1,2 +1,2 @@
 #root=https://virtualion.github.io/vtestprj/
-#prj=vtestprj
+#prj=vtest
